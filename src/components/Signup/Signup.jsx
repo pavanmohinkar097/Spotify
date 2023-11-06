@@ -69,7 +69,7 @@ const Signup = () => {
                                     htmlFor="email"
                                     className="font-semibold mb-2 text-sm inline-block"
                                 >
-                                    What should we call you?{" "}
+                                    What should we call you??{" "}
                                 </label>
                                 <input
                                     type="text"
