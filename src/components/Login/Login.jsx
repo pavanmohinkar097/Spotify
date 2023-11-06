@@ -67,7 +67,7 @@ const Login = () => {
                     <div className="border-b border-gray-400 w-3/4 my-4 mx-auto"></div>
                     <p className="pt-8">
                         <span className="text-gray-300 font-semibold">
-                        Don't have an account?{" "}
+                        Don't have an account??{" "}
                         </span>
                       
                         <Link to="/signup" className="text-white hover:text-green-500 font-semibold underline mx-auto">Sign up for Spotify</Link>
