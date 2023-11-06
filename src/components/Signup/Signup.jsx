@@ -39,7 +39,7 @@ const Signup = () => {
                                     htmlFor="email"
                                     className="font-semibold mb-2 text-sm inline-block"
                                 >
-                                    What's your email?{" "}
+                                    What's your email??{" "}
                                 </label>
                                 <input
                                     type="text"
